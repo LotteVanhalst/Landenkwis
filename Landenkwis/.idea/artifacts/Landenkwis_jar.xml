@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Landenkwis:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Landenkwis_jar</output-path>
+    <root id="archive" name="Landenkwis.jar">
+      <element id="module-output" name="Landenkwis" />
+    </root>
+  </artifact>
+</component>

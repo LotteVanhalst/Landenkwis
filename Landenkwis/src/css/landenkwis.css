@@ -1,0 +1,29 @@
+.root {
+    -fx-font-family: "Corbel";
+    -fx-font-size: 16;
+}
+
+.StackPane {
+    -fx-padding: 2;
+    -fx-background-color: darkgrey;
+}
+
+/*.startview {*/
+    /*-fx-background-image: url("achtergrond.jpg");*/
+    /*-fx-background-position: center;*/
+/*}*/
+
+/*.button {*/
+    /*-fx-background-color: rgb(100,145,145);*/
+    /*-fx-border-radius: 2;*/
+    /*-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.4) , 5, 0.0 , 0 , 1 );*/
+    /*-fx-text-fill: white;*/
+    /*-fx-font-weight: bold;*/
+    /*-fx-padding: 10;*/
+/*}*/
+
+/*.button:hover {*/
+    /*-fx-background-color: rgb(120, 170, 170);*/
+    /*-fx-font-weight: bold;*/
+    /*!*-fx-cursor: hand;*!*/
+/*}*/

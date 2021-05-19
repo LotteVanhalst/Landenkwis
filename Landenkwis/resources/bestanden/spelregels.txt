@@ -1,0 +1,27 @@
+Spelregels Landenkwis
+
+1. Kies een werelddeel
+2. Kies tussen landen, vlaggen en hoofdsteden
+3. Kies tussen een quiz of een oefening (spelregels: zie hieronder)
+4. Druk op start
+
+Als je voor landen kiest, krijg je telkens een kaart van het gekozen werelddeel te zien met daarop een land ingekleurd. Jij moet de juiste naam van het land ingeven.
+Als je voor vlaggen kiest, krijg je telkens een vlag van een land van het gekozen werelddeel te zien. Jij moet de juiste naam van het land ingeven.
+Als je voor hoofdsteden kiest, krijg je telkens een kaart van het gekozen werelddeel te zien met daarop een land ingekleurd en de naam van het land.
+Jij moet de juiste naam van de hoofdstad van het land ingeven.
+
+Spelregels Quiz
+
+Je krijgt in totaal 20 landen te zien. Voor elk land krijg je maximum 10 seconden om het juiste antwoord te geven. Als je te laat bent of een fout antwoord geeft,
+wordt het betreffende land terug in de quiz gestoken. Als je het juiste antwoord geeft, gaat je score omhoog met de tijd die je overhad (10 seconden - tijd die je nodig had om het juiste
+antwoord te geven).
+Indien je een highscore behaalt, wordt jouw score geregistreerd.
+
+Spelregels Oefening
+
+Je krijgt alle landen van het betreffende werelddeel te zien. Hier moet je niet antwoorden tegen de tijd. Als je het foute antwoord geeft, wordt het betreffende land
+terug in de oefening gestoken. Je kan telkens een tip vragen. Elke keer je op 'Tip' duwt, krijg je een letter van het antwoord cadeau.
+
+Admin
+
+Als admin kan je zowel landen toevoegen als landen wijzigen en verwijderen. Ga daarvoor naar het juiste scherm, geef jouw naam en wachtwoord in en volg de schermen.
